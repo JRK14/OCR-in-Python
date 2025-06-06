@@ -1,7 +1,6 @@
-# OCR-in-Python
-A desktop application for extracting text from images using Optical Character Recognition. Built with Python, Tkinter, and Tesseract OCR.
+# OCR Application
 
-A  Python application for Optical Character Recognition (OCR) that allows users to upload and scan images to extract text.
+A Python application for Optical Character Recognition (OCR) that allows users to upload and scan images to extract text.
 
 ## Features
 
